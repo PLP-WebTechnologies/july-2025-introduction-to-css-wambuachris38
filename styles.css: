@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Learn the basics of HTML5, accessibility, and SEO through a simple, well-structured example.">
+  <meta name="keywords" content="HTML5, accessibility, SEO, semantic tags, web development">
+  <meta name="author" content="Christopher">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML5 Accessibility & SEO Example</title>
+</head>
+<body>
+
+  <header>
+    <h1>HTML5, Accessibility & SEO Basics</h1>
+    <nav>
+      <ul>
+        <li><a href="#structure">Semantic Structure</a></li>
+        <li><a href="#accessibility">Accessibility</a></li>
+        <li><a href="#seo">SEO Tips</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="structure">
+      <h2>Using Semantic Tags</h2>
+      <p>HTML5 provides meaningful elements like <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, and <code>&lt;footer&gt;</code> to organize content in a logical way.</p>
+    </section>
+
+    <section id="accessibility">
+      <h2>Accessibility Best Practices</h2>
+      <p>Use clear heading hierarchies, add <code>alt</code> attributes for images, and landmarks like <code>&lt;main&gt;</code> and <code>&lt;nav&gt;</code> to guide screen readers.</p>
+    </section>
+
+    <section id="seo">
+      <h2>SEO-Friendly Strategies</h2>
+      <p>Write descriptive titles, use keywords thoughtfully, and organize content so it's readable by both users and search engine crawlers.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Christopher. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
